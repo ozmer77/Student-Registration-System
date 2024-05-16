@@ -1,0 +1,3 @@
+﻿  ödev2_2.cpp
+C:\Users\ASUS\source\repos\ödev2_2\ödev2_2\ödev2_2.cpp(73,31): warning C4244: '=': 'std::streamoff' - 'long' dönüşümü; veri kaybı olabilir
+  ödev2_2.vcxproj -> C:\Users\ASUS\source\repos\ödev2_2\x64\Debug\ödev2_2.exe
